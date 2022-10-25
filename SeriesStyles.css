@@ -1,0 +1,13 @@
+.container{
+    position: center;
+    margin-top: 150px;
+}
+
+table>:nth-child(1){
+    background-color: white;
+    font-weight: bold;
+}
+
+.table{
+    background-color: whitesmoke;
+}
